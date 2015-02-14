@@ -1,0 +1,12 @@
+Title=_prism_hud
+Description=HUD
+Version=0.1.1
+Link=
+Date=2014-12-20
+Category=HUD
+Author=Jarkin
+Role=Prism HUD
+Profile=http://steamcommunity.com/profiles/76561198022106397
+Author=Omni
+Role=NotoHUD
+Profile=http://steamcommunity.com/profiles/76561198025858897
