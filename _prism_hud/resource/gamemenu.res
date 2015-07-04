@@ -21,6 +21,14 @@
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
+	"PlayCompetitiveButton"
+	{
+		"label" "#MMenu_PlayComp" 
+		"command" "ladder_ui_show"
+		"subimage" "Glyph_Practice"
+		"OnlyAtMenu" "1"
+		"OnlyWhenCompetitiveEnabled" "1"
+	}
 	"ServerBrowserButton"
 	{
 		"label" "Servers" 
